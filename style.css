@@ -153,7 +153,8 @@ main p{
 
 .Beneficios{
     padding: 3em 0;
-    background:rgb(83, 9, 102);
+    background: red;
+    //background:rgb(83, 9, 102);
 }
 
 .Titulo{
