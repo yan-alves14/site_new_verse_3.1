@@ -153,8 +153,7 @@ main p{
 
 .Beneficios{
     padding: 3em 0;
-    background-color: red;
-    /*background:rgb(83, 9, 102);*/
+    background:rgb(83, 9, 102);
 }
 
 .Titulo{
@@ -164,8 +163,8 @@ main p{
 }
 
 .conteudo{
-    
-    /*width: 850px;*/
+  
+    width: 850px;
     text-align: justify;
     color:rgb(255, 255, 255);
     margin-left: 300px;
